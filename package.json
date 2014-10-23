@@ -16,24 +16,25 @@
   "version": "0.0.4", 
 
   "dependencies": {
-    "mongoose": "2.5.10"
+    "mongoose": "~3.8.0",
+    "slug": "~0.8.0"
   },
 
   "repository" :
   { 
     "type" : "git", 
-    "url" : "http://github.com/punkave/mongoose-uniqueslugs.git"
-  }, 
+    "url" : "https://github.com/hats/mongoose-uniqueslugs.git"
+  },
 
   "bugs" : { 
-    "web" : "http://github.com/punkave/mongoose-uniqueslugs/issues" 
+    "web" : "https://github.com/hats/mongoose-uniqueslugs/issues" 
   }, 
 
   "licenses" :
     [ 
       { 
         "type" : "MIT", 
-        "url" : "http://github.com/powmedia/mongoose-uniqueslugs/raw/master/LICENSE"
+        "url" : "http://github.com/hats/mongoose-uniqueslugs/raw/master/LICENSE"
       }
     ]
 }
